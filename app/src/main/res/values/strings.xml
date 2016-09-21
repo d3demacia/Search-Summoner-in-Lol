@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">LoLSummonerSearch</string>
+    <string name="version">1.1.1</string>
+    <!-- Main Activity -->
+    <string-array name="regions_array">
+        <item>North America</item>
+        <item>Brazil</item>
+        <item>EU Nordic/East</item>
+        <item>EU West</item>
+        <item>Korea</item>
+        <item>Latin North</item>
+        <item>Latin South</item>
+        <item>Oceania</item>
+        <item>PBE</item>
+        <item>Russia</item>
+        <item>Turkey</item>
+    </string-array>
+    <string-array name="seasons">
+        <item>Season 6</item>
+        <item>Season 5</item>
+        <item>Season 4</item>
+        <item>Season 3</item>
+    </string-array>
+    <string name="summoner_label">SUMMONER:</string>
+    <string name="name_hint">ex. Dyrus</string>
+    <string name="search_button">Search</string>
+
+    <!-- Ranked Activity -->
+    <string name="picture_desc">Profile Icon</string>
+    <string name="unranked">Unranked</string>
+    <string name="wins_txt">Wins:</string>
+    <string name="losses_txt">Losses:</string>
+    <string name="win_ratio">Win Ratio:</string>
+    <string name="ranked_champ_hint">Select a champion for more information:</string>
+    <string name="scroll_games">Games:</string>
+
+    <!-- Champion Activity -->
+    <string name="summoner_name">Summoner Name</string>
+    <string name="value_placeholder">##</string>
+    <string name="lost">Lost: \u0020</string>
+    <string name="per_game_averages">Per Game Average</string>
+    <string name="average_kills">Avg. Kills: \u0020</string>
+    <string name="average_deaths">Avg. Deaths: \u0020</string>
+    <string name="average_assists">Avg. Assists: \u0020</string>
+    <string name="average_minions">Avg. Minions: \u0020</string>
+    <string name="average_double_kills">Avg. Double Kills: \u0020</string>
+    <string name="average_triple_kills">Avg. Triple Kills: \u0020</string>
+    <string name="average_quadra_kills">Avg. Quadra Kills: \u0020</string>
+    <string name="average_penta_kills">Avg. Penta Kills: \u0020</string>
+    <string name="title_activity_four04">Four04</string>
+    <string name="banner_home_footer">ca-app-pub-6409804885770715/4262268980</string>
+
+</resources>
