@@ -2,8 +2,8 @@
 League of Legends player search mobile Android application.  https://play.google.com/store/apps/details?id=com.anidev.gabo.lolsummonersearch
 
 
-Contributors:
-  * Part of the script: oscarAG
+* Contributors:
+ * Part of the script: oscarAG
  *  Wallpaper app:Shimikoo http://shimikoo.deviantart.com/
  *  Translate to spanish: D3demacia
  *  Icon app: D3demacia
