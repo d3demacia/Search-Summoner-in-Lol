@@ -3,10 +3,10 @@ League of Legends player search mobile Android application.  https://play.google
 
 
 Contributors:
-  Part of the script: oscarAG
-  Wallpaper app:Shimikoo http://shimikoo.deviantart.com/
-  Translate to spanish: D3demacia
-  Icon app: D3demacia
+  * Part of the script: oscarAG
+ *  Wallpaper app:Shimikoo http://shimikoo.deviantart.com/
+ *  Translate to spanish: D3demacia
+ *  Icon app: D3demacia
       
   Resume:
   The application was translated to help players servers LAN or LAS,but they can obtain information from the profiles of all     servers, available in Spanish and English application.
